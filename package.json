@@ -1,0 +1,21 @@
+{
+  "name": "talk2sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.20",
+    "@langchain/google-genai": "^0.0.23",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.10",
+    "mysql2": "^3.10.3",
+    "typeorm": "^0.3.20"
+  },
+  "type": "module"
+}
